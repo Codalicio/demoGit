@@ -1,1 +1,5 @@
+c1 branch :
 Hello from the 1st file, created using the branch "master", and my name is "Amit Raj", and my address is Hajipur, and my contact number is 7257938190.
+
+c2 branch :
+Hello from the 1st file, created using the branch "master", and my name is "Amit Raj", and my address is Hajipur, Bihar.
