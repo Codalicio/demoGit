@@ -1,1 +1,13 @@
+---------------------------------------------------------------------
+
+From newBranch1 :
+
 Hello from the 2nd file, created using the branch "master", my nickname is Sonu, I live at Hajipur, Bihar.
+
+---------------------------------------------------------------------
+
+From newBranch2 :
+
+Hello from the 2nd file, created using the branch "master", my nickname is Sonu, my goal is to be a FSD.
+
+---------------------------------------------------------------------
