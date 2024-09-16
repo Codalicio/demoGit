@@ -1,1 +1,13 @@
+----------------------------------------------------------------------------------------------------
+
+From c1 :
+
 Hello from the 3rd file, created using the branch "master", adding some texts using the branch "c1".
+
+----------------------------------------------------------------------------------------------------
+
+From c2 :
+
+Hello from the 3rd file, created using the branch "master", added some texts using the branch "c2".
+
+----------------------------------------------------------------------------------------------------
